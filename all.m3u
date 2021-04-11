@@ -1,16 +1,16 @@
 #EXTM3U
 #EXTINF:-1,Animal Planet UK
-#EXTVLCOPT:http-user-agent=1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/413c7f7928d689d.m3u8
+#EXTVLCOPT:http-user-agent=1
 #EXTINF:-1,Nat Geo UK
-#EXTVLCOPT:http-user-agent=1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/12b30fdac68ad23.m3u8
+#EXTVLCOPT:http-user-agent=1
 #EXTINF:-1,Nat Geo Wild UK
-#EXTVLCOPT:http-user-agent=1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/2cd2d0e78ffeb13.m3u8
-#EXTINF:-1,Discovery UK
 #EXTVLCOPT:http-user-agent=1
+#EXTINF:-1,Discovery UK
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/f4d663ce972f25e.m3u8
+#EXTVLCOPT:http-user-agent=1
 #EXTINF:-1,Discovery Science
 #EXTVLCOPT:http-user-agent=1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/WildlifeScience/680276caf80ae5a.m3u8
