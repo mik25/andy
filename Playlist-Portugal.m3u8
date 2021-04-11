@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d5fc45f213dbd65.m3u8
+#EXTINF:-1,RTP 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/cd819d98038ae35.m3u8
+#EXTINF:-1,RTP 3
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/cd1ecf6d4dc833b.m3u8
+#EXTINF:-1,RTP MEMORIA
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/317c7509a6bea5d.m3u8
+#EXTINF:-1,RTP MEDERIA
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/8c7ffa317af574d.m3u8
+#EXTINF:-1,TVI
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/342b9ff54675bf4.m3u8
+#EXTINF:-1,TVI 24
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/35808c4c6944ac1.m3u8
+#EXTINF:-1,VH1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/9a5c26703a4c78b.m3u8
+#EXTINF:-1,TVC 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/3b8977d10f0b070.m3u8
+#EXTINF:-1,TVC 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/013f7ab32dc95d4.m3u8
+#EXTINF:-1,TVC 3
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/a9751744408a3ec.m3u8
+#EXTINF:-1,TVC 4
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/940727afc189b06.m3u8
+#EXTINF:-1,TVC & SERIES
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/01cf77bd4f01eda.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/fa6f5fcd6716071.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d822056679017ea.m3u8
+#EXTINF:-1,TRACE URBAN
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/00eb98eff8c278a.m3u8
+#EXTINF:-1,TLC
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/1035de6e688f0f6.m3u8
+#EXTINF:-1,SYFY PORTUGAL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/350ec3da3432993.m3u8
+#EXTINF:-1,SPORTING TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/4b305965e31ad5c.m3u8
+#EXTINF:-1,MTV PT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/a2f54acec9fcf80.m3u8
+#EXTINF:-1,MOV PT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/fdac0418aa21839.m3u8
+#EXTINF:-1,KOMBAT SPORTS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/077bc0c5b7b5995.m3u8
+#EXTINF:-1,JIM JAM
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/9cc0058b6d5cd94.m3u8
+#EXTINF:-1,SIC PORTUGAL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/5cd1b2f3b14309c.m3u8
+#EXTINF:-1,SIC RADICAL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/3cb0c3202b9cb63.m3u8
+#EXTINF:-1,SIC NOTICIAS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/a2dafbab4842891.m3u8
+#EXTINF:-1,SIC MULHER
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/38288ef0d24dd31.m3u8
+#EXTINF:-1,SIC KIDS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/2d5a0f2ef07062f.m3u8
+#EXTINF:-1,SIC CARAS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/de22dbfe02ad30d.m3u8
+#EXTINF:-1,DISNEY PORTUGAL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/3778467b3f08246.m3u8
+#EXTINF:-1,DISNEY JR
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d810443910d25cc.m3u8
+#EXTINF:-1,BIGGS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/5ad5edd62e676cc.m3u8
+#EXTINF:-1,BABY TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d5a87445a3d7fa1.m3u8
+#EXTINF:-1,CANAL PANDA
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/1d81a76aa48995a.m3u8
+#EXTINF:-1,FOX HD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/66c6ece90ecd6b5.m3u8
+#EXTINF:-1,FOX MOVIES
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/8aa423a1d36660c.m3u8
+#EXTINF:-1,FOX LIFE
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/ed21938805b7f81.m3u8
+#EXTINF:-1,FOX CRIME
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/61e8e42eff14fa8.m3u8
+#EXTINF:-1,FOX COMEDY
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/057a1e27f9d766c.m3u8
+#EXTINF:-1,HWD HOLLYWOOD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/18a64b107a33b09.m3u8
+#EXTINF:-1,E ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/c0ab5fc69f2a8c7.m3u8
+#EXTINF:-1,CINE MUNDO
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/d871fcfe6d60ed9.m3u8
+#EXTINF:-1,HISTORY
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/c9126dbfe8aa709.m3u8
+#EXTINF:-1,CACAVISION
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/76efd1751b6d39c.m3u8
+#EXTINF:-1,AXN HD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/a43a940eb1ce362.m3u8
+#EXTINF:-1,AXN WHITE
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/e6031b8698bb86b.m3u8
+#EXTINF:-1,AXN BLACK
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/c97c7c2e3a83fa8.m3u8
+#EXTINF:-1,CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/2f23b169bcc2be3.m3u8
+#EXTINF:-1,NAT GEO PT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/3265474106b5d2b.m3u8
+#EXTINF:-1,NAT GEO WILD PT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/5cdce4d5c5fc5b8.m3u8
+#EXTINF:-1,CM TV 
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Portugal/bb6345f0bfa1731.m3u8

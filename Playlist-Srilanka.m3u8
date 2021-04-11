@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1,Sirasa TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/8cf11bfaede4c01.m3u8
+#EXTINF:-1,Shakthi TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/10973861d9a0018.m3u8
+#EXTINF:-1,Siyatha TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/ec3530edcf85120.m3u8
+#EXTINF:-1,Derana TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/b4c55ef9cf90caf.m3u8
+#EXTINF:-1,Rupavahini TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/fa75a76ae59e582.m3u8
+#EXTINF:-1,Channel Eye
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/c9047d82c001af3.m3u8
+#EXTINF:-1,Nethra TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/2347554bb6adbfb.m3u8
+#EXTINF:-1,ITN TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/7221e798cdc4a77.m3u8
+#EXTINF:-1,Channel C
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/af478f57e479948.m3u8
+#EXTINF:-1,Dharmavahini TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/5c6d557b5f81f2c.m3u8
+#EXTINF:-1,Swarnavahini TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/6b9b3f74484344a.m3u8
+#EXTINF:-1,CITI Hits
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/0a1c5ee66c0f751.m3u8
+#EXTINF:-1,HIRU TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Srilanka/a6a03aa37f037c7.m3u8

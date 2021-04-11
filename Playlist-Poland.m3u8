@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,TVP 1 
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0e3ce78c45ac09c.m3u8
+#EXTINF:-1,TVP 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/d885cdb894230cc.m3u8
+#EXTINF:-1,POLSAT NEWS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/479465a0013dbd5.m3u8
+#EXTINF:-1,POLSAT FILM
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0ee5f11808ba186.m3u8
+#EXTINF:-1,POLSAT CAFE
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/a1bc086a56fd7d4.m3u8
+#EXTINF:-1,POLSAT PLAY
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/cf931d1858d4311.m3u8
+#EXTINF:-1,POLSAT 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/03a1320698f46a8.m3u8
+#EXTINF:-1,POLSAT 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/46b0a1f88abc766.m3u8
+#EXTINF:-1,FILMBOX ACTION
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/aa5b4ef58cae736.m3u8
+#EXTINF:-1,FILMBOX PREMIUM
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9833bb9807a2d3f.m3u8
+#EXTINF:-1,MTV PL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/5bda641ac394cf5.m3u8
+#EXTINF:-1,POLSAT ROMANS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9edd07d1fc195c3.m3u8
+#EXTINF:-1,AXN POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/afe53ddb8a88514.m3u8
+#EXTINF:-1,BBC EARTH POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e5f48eb6de1710c.m3u8
+#EXTINF:-1,DISCOVERY POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/5d90de9dd4ff289.m3u8
+#EXTINF:-1,DISCOVERY SCI POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e680891844525d2.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/d1cbd735fd35705.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/0c8a3c6be03379c.m3u8
+#EXTINF:-1,NAT GEO POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9b5adba96529771.m3u8
+#EXTINF:-1,NAT GEO WILD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/8298be9eba6abb6.m3u8
+#EXTINF:-1,NICKLODEON
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/454dba3ef5829a2.m3u8
+#EXTINF:-1,HISTORY TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/9b245c1c1972789.m3u8
+#EXTINF:-1,BBC POLAND
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/282db3295e4ec33.m3u8
+#EXTINF:-1,4 FUN
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Poland/e04dae8e62b70a0.m3u8

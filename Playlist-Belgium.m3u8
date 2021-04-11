@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,CANVAS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/09916e3a88db175.m3u8
+#EXTINF:-1,CLUB RTL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/9ef55f75bc15308.m3u8
+#EXTINF:-1,EEN HD
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/65bbac7eb991d88.m3u8
+#EXTINF:-1,KADET TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/1e48b85802b55f4.m3u8
+#EXTINF:-1,KETNET TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/91d207b73d86b62.m3u8
+#EXTINF:-1,LA DEUX
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5dee2de1f4661ce.m3u8
+#EXTINF:-1,LA TROIS
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6f940c7da9a562e.m3u8
+#EXTINF:-1,LA UNE
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/29797c9f3f4fa00.m3u8
+#EXTINF:-1,PLUG RTL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/de5c6896d356f8e.m3u8
+#EXTINF:-1,Q2 TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/5105f34f7db419a.m3u8
+#EXTINF:-1,RTL TVI
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/00d9cc1be792045.m3u8
+#EXTINF:-1,VIER
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/3f1f349cb9cf765.m3u8
+#EXTINF:-1,VIJF TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/7f59a4dfcc56366.m3u8
+#EXTINF:-1,VITAYA TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/6df1aa5b7261fda.m3u8
+#EXTINF:-1,VTM KAZOOM
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/40fca6d7196287e.m3u8
+#EXTINF:-1,VTM TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Belgium/c5cafdbfc4d28d3.m3u8

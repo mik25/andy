@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,NPO 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/378a642ff00fed9.m3u8
+#EXTINF:-1,NPO 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/50fcdecf8a4adb7.m3u8
+#EXTINF:-1,NPO 3
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/c19fce28bcd7cb7.m3u8
+#EXTINF:-1,RTL 4
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/1de333734b1b7e0.m3u8
+#EXTINF:-1,RTL 5
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/d21ba483a195a31.m3u8
+#EXTINF:-1,RTL 7
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/d45cf298e12a965.m3u8
+#EXTINF:-1,RTL 8
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/0c913970f4e013e.m3u8
+#EXTINF:-1,SBS 6
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/02b720fbcfb866d.m3u8
+#EXTINF:-1,SBS 9
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/7c3acc2d8ef3624.m3u8
+#EXTINF:-1,ZIGGO EXTRA 1
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/ec695f65e6a2f4b.m3u8
+#EXTINF:-1,ZIGGO EXTRA 2
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/3d89ed6aa34a968.m3u8
+#EXTINF:-1,ZIGGO GOLF
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/27491db6bea155a.m3u8
+#EXTINF:-1,ZIGGO RACING
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/29fe33a8dc20fa3.m3u8
+#EXTINF:-1,ZIGGO VOETBAL
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/7335edf66aba710.m3u8
+#EXTINF:-1,ZIGGO SELECT
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/ccb94808e06e002.m3u8
+#EXTINF:-1,Veronica TV
+#EXTVLCOPT:http-user-agent=1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Netherland/8960167d1cbf8cc.m3u8
